@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Expense Tracker",
+  "description": "An intelligent expense tracker application powered by the Gemini API. It allows users to track expenses, get AI-driven analysis of their spending, chat with a financial assistant, and use AI tools to generate and edit images related to their expenses.",
+  "requestFramePermissions": []
+}
